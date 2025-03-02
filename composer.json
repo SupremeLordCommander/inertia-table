@@ -18,15 +18,14 @@
     "require": {
         "php": "^8.2",
         "aaronfrancis/fast-paginate": "^2.0",
-        "illuminate/contracts": "^10.0",
+        "illuminate/contracts": "^11.0",
         "inertiajs/inertia-laravel": "^2.0",
         "kirschbaum-development/eloquent-power-joins": "^3.3",
         "spatie/laravel-package-tools": "^1.14"
     },
     "require-dev": {
         "larastan/larastan": "^2.9",
-        "nunomaduro/collision": "^7.0",
-        "orchestra/testbench": "^8.0",
+        "orchestra/testbench": "^9",
         "pestphp/pest": "^2",
         "pestphp/pest-plugin-laravel": "^2",
         "pestphp/pest-plugin-mock": "^2",
